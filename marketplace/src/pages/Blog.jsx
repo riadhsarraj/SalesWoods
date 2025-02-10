@@ -7,7 +7,7 @@ import "../../styles/nice-select.css";
 import "../../styles/owl.carousel.css";
 import "../../styles/slicknav.css";
 import "../../styles/style.css";
-import "../../reportWebVitals";
+import "../reportWebVitals";
 function Blog() {
   return (
     <div>
