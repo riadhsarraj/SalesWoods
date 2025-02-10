@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "jquery": "^3.7.1",
+    "mixitup": "^3.3.2",
+    "react-router-dom": "^7.1.5",
+    "web-vitals": "^4.2.4"
+  }
+}
